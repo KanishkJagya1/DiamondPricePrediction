@@ -67,7 +67,7 @@ Here are some sample values that can be used as input for predictions:
 
 ## Contributors
 
-- [Your Name](https://github.com/KanishkJagya1/DiamondPricePrediction)
+- [Kanishk Jagya](https://github.com/KanishkJagya1/DiamondPricePrediction)
 
 Feel free to contribute to this project by forking and creating pull requests!
 
